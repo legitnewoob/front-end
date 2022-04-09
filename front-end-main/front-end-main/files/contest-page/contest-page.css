@@ -1,0 +1,14 @@
+*{
+    font-family: 'Josefin Sans';
+    padding: 0px;
+    margin: 0px;
+    background-color: #000000;
+    color: white;
+    box-sizing: border-box;
+}
+.grid-coding-area{
+    display: grid;
+}
+.grid-test-and-questions{
+    display: grid;
+}
